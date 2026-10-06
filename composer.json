@@ -1,0 +1,10 @@
+{
+    "name": "souza/unimar-aprendendo-composicao-php",
+    "description": "Exercicios sobre composição em PHP com o professor valdir (POO)",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
